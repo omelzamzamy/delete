@@ -1,1 +1,2 @@
-kndkjANSK;djbfkjbc;kLNF
+kndkjANSK;djbfkjbc;kLN
+this is a seconds line trying git 
